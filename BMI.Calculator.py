@@ -1,6 +1,7 @@
 '''
 Sophie Mangum
 IS 303
+# final version
 
 BMI Calculator
 This program calculates a person's BMI using height and weight.

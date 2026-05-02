@@ -1,6 +1,7 @@
 '''
 Sophie Mangum
 IS 303
+# final version
 
 Tip Splitter
 This program splits a restaurant bill among friends including tip.
